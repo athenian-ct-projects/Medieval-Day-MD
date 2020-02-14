@@ -1,9 +1,7 @@
-# Assignment Description
+# Medieval Day Trajectory Calculator
 
-written by 
+written by MD '23
 
-edit with appropriate link:
+[![Run on Repl.it](https://repl.it/badge/github/athenian-ct-projects/Medieval-Day-MD)](https://repl.it/github/athenian-ct-projects/Medieval-Day-MD)
 
-[![Run on Repl.it](https://repl.it/badge/github/athenian-ct-projects/Ambassador-Day-Game-VGE)](https://repl.it/github/athenian-ct-projects/Ambassador-Day-Game-VGE)
-
-Add info about game here
+* This is a trajectory calculator for use with the Medieval Day catapults
